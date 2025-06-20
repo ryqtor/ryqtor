@@ -7,14 +7,10 @@
 <h3 align="center">A passionate backend developer building secure digital foundations</h3>
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on AI privacy solutions
-- 🌱 Learning modern cryptography techniques
-- 💡 Interested in system architecture and security
-- ⚡ Fun fact: I love solving complex puzzles
-
+- 🔭 Cyber Security Learner | Backend Developer | DSA Enthusiast
+- 🌱 Currently mastering system design and cloud security principles
 ## 🚀 Tech Stack
 
-### 🧰 Gearbox of Skills
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -32,6 +28,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
       </p>
     </td>
     <td width="40%" valign="top" align="center">
