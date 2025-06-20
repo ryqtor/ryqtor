@@ -9,7 +9,7 @@ A backend developer and cybersecurity learner who enjoys building real-world thi
 ---
 
 ### ⚙️ Tools I Break and Build With  
-<p align="left">
+<p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="300"/><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
