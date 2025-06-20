@@ -1,6 +1,6 @@
-<!-- 🏁 Full-Width Rectangular Banner (Top) -->
+<!-- 🏁 New Full-Width Banner (Top) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" style="border-radius: 8px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 8px;"/>
 </p>
 
 <br/>
@@ -49,7 +49,7 @@
       </p>
     </td>
 
-    <!-- Right: New Coding GIF -->
+    <!-- Right: Coding GIF -->
     <td width="40%" valign="top" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="90%" style="border-radius: 8px;"/>
     </td>
