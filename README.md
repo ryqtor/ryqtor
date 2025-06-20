@@ -31,7 +31,7 @@
 <table>
   <tr>
     <!-- Left: Skill Icons -->
-    <td width="70%" valign="top">
+    <td width="60%" valign="top">
       <h3 align="left">🚀 Code Arsenal</h3>
       <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
@@ -49,9 +49,9 @@
       </p>
     </td>
 
-    <!-- Right: GIF -->
-    <td width="30%" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" style="border-radius: 8px;"/>
+    <!-- Right: New Coding GIF -->
+    <td width="40%" valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="90%" style="border-radius: 8px;"/>
     </td>
   </tr>
 </table>
