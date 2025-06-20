@@ -46,8 +46,3 @@
   <a href="https://www.linkedin.com/in/bhagawanshruthi/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36"/></a>
   <a href="https://discord.com/users/yourid"><img src="https://img.icons8.com/fluency/48/discord-logo.png" width="36"/></a>
 </p>
-
-<!-- Footer GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="60%" style="border-radius: 8px; margin-top: 20px;"/>
-</p>
