@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Shruthi!</h1>
-<h3 align="center">A passionate backend developer building secure digital foundations</h3>
+<h3 align="center">A passionate cs student building secure digital foundations</h3>
 
 ## 🧑‍💻 About Me
 - 🔭 Cyber Security Learner | Backend Developer | DSA Enthusiast
