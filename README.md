@@ -42,7 +42,7 @@
 
 | # | Hackathon/Program | Track/Project | Achievement | Prize |
 |---|-------------------|---------------|-------------|-------|
-| 1 | **Amazon Scholarship** | Diversity in Tech | Nationwide (25k+ applicants) | $2200 |
+| 1 | **Amazon Scholarship** | Diversity in Tech | Nationwide (25k+ applicants) | $2200 USD |
 | 2 | **HackSRM 7.0** | University Flagship | 2nd Runner-up | $550 USD |
 | 3 | **HackSecureX Int.** | Privy (AI GDPR Tool) | 3rd Place Globally | $250 USD |
 | 4 | **VibeCraft Hackathon** | HealthSecure (Solidity/IPFS) | 2nd Place | $100 USD |
