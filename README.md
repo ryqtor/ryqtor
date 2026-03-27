@@ -5,17 +5,15 @@
 <h1 align="center">Hi, I'm Shruthi!</h1>
 <h3 align="center">A passionate CS student building secure digital foundations</h3>
 
-## 🧑‍💻 About Me
-- 🔭 **Full Stack Developer | System Design | Cloud Security | DSA**
-- 🌱 Currently mastering distributed systems and advanced cryptography
-- ⚡ Fun fact: I love building tools that bridge the gap between security and usability
+##  About Me
+-  **Full Stack Developer | System Design | Cloud Computing | DSA**
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>🚀 Code Arsenal</h3>
+      <h3> Code Arsenal</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
@@ -38,7 +36,7 @@
   </tr>
 </table>
 
-## 🏆 Leadership & Achievements
+## Leadership & Achievements
 
 | # | Hackathon/Program | Track/Project | Achievement | Prize |
 |---|-------------------|---------------|-------------|-------|
@@ -47,7 +45,7 @@
 | 3 | **HackSecureX Int.** | Privy (AI GDPR Tool) | 3rd Place Globally | $250 USD |
 | 4 | **VibeCraft Hackathon** | HealthSecure (Solidity/IPFS) | 2nd Place | $100 USD |
 
-## 📬 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="mailto:beshrithi@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36"/></a>
   <a href="https://www.linkedin.com/in/bhagawanshruthi/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36"/></a>
