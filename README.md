@@ -3,37 +3,72 @@
 </p>
 
 <h1 align="center">Hi, I'm Shruthi!</h1>
-<h3 align="center">A passionate CS student building secure digital foundations</h3>
+<h3 align="center"></h3>
 
 ##  About Me
 -  **Full Stack Developer | System Design | Cloud Computing | DSA**
 
 ##  Tech Stack
+##  Skills
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3> Code Arsenal</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-      </p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="90%" style="border-radius: 8px;"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Programming Languages
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Development
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI & Data
+<p>
+<img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-0FA958?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Core CS
+<p>
+<img src="https://img.shields.io/badge/DSA-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-009688?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
 </table>
 
 ## Leadership & Achievements
