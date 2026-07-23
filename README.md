@@ -9,7 +9,6 @@
 -  **Full Stack Developer | System Design | Cloud Computing | DSA**
 
 ##  Tech Stack
-## Tech Stack
 
 <table>
 <tr>
