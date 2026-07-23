@@ -9,66 +9,81 @@
 -  **Full Stack Developer | System Design | Cloud Computing | DSA**
 
 ##  Tech Stack
-##  Skills
+## Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### Programming Languages
+<td width="50%" valign="top" align="center">
+
+<h3>Programming Languages</h3>
+
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### Development
+<h3>Development Skills</h3>
+
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+</p>
+
+<p>
+<b>REST APIs</b>
 </p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### AI & Data
+<td width="50%" valign="top" align="center">
+
+<h3>AI & Data</h3>
+
 <p>
-<img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Databases-0FA958?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_DB-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square"/>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### Core CS
+<h3>Core Concepts</h3>
+
 <p>
-<img src="https://img.shields.io/badge/DSA-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-FF5722?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating_Systems-607D8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Networks-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-3F51B5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-673AB7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-009688?style=for-the-badge"/>
+
+DSA • Operating Systems • Computer Networks • DBMS
+
+</p>
+
+<p>
+
+OOP • Distributed Systems • System Design
+
 </p>
 
 </td>
+
 </tr>
+
 </table>
 
 ## Leadership & Achievements
